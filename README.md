@@ -29,7 +29,7 @@ cd history-dates
 npm install
 ```
 
-2. Запустите проект:
+4. Запустите проект:
 
 ```bash
 npm run dev
