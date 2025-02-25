@@ -14,7 +14,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone [ссылка на репозиторий]
+git clone https://github.com/sebryk/history-dates
 ```
 
 2. Перейдите в директорию проекта:
