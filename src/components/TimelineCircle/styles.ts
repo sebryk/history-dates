@@ -67,7 +67,7 @@ export const Circle = styled.div`
    left: 0;
 `;
 
-export const Title = styled.span<{ isVisible: boolean }>`
+export const Title = styled.h3<{ isVisible: boolean }>`
    opacity: ${({ isVisible }) => (isVisible ? 1 : 0)};
    transition: ${({ isVisible }) => (isVisible ? 'opacity 0.5s ease' : 'opacity 0.3s ease')};
    transition-delay: ${({ isVisible }) => (isVisible ? '1s' : '0s')};

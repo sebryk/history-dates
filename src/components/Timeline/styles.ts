@@ -67,7 +67,7 @@ export const Animation = styled.div<{ isSliderVisible: boolean }>`
    }
 `;
 
-export const Title = styled.div`
+export const Title = styled.h3`
    display: none;
    @media (max-width: 763px) {
       display: block;
@@ -97,9 +97,14 @@ export const YearsWrapper = styled.div`
    justify-content: space-between;
    width: 100%;
    position: relative;
+   transform: translateY(-10px);
 
    @media (max-width: 1160px) {
       width: 100%;
+   }
+   @media (max-width: 1160px) {
+      width: 100%;
+      transform: translateY(-0.86vw);
    }
    @media (max-width: 320px) {
       height: 73px;
