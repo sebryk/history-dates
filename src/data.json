@@ -1,154 +1,154 @@
 {
    "historyEvents": {
-      "title": "Исторические даты",
+      "title": "Historical Dates",
       "timeline": [
          {
-            "title": "Кино",
+            "title": "Cinema",
             "events": [
                {
                   "year": "1990",
-                  "description": "Премьера «Крестного отца 3», завершающей части культовой трилогии Фрэнсиса Форда Копполы."
+                  "description": "Premiere of 'The Godfather Part III', the final part of Francis Ford Coppola's cult trilogy."
                },
                {
                   "year": "1991",
-                  "description": "«Молчание ягнят» получает все главные награды премии Оскар, включая лучший фильм."
+                  "description": "'The Silence of the Lambs' wins all major Academy Awards, including Best Picture."
                },
                {
                   "year": "1993",
-                  "description": "Выход «Парка Юрского периода» с революционными спецэффектами от Industrial Light & Magic."
+                  "description": "Release of 'Jurassic Park' with revolutionary special effects by Industrial Light & Magic."
                },
                {
                   "year": "1994",
-                  "description": "«Криминальное чтиво» Тарантино переворачивает представление о нелинейном повествовании."
+                  "description": "Tarantino's 'Pulp Fiction' revolutionizes non-linear storytelling."
                },
                {
                   "year": "1996",
-                  "description": "«Фарго» братьев Коэн получает признание критиков и становится культовой классикой."
+                  "description": "The Coen brothers' 'Fargo' receives critical acclaim and becomes a cult classic."
                }
             ]
          },
          {
-            "title": "Интернет",
+            "title": "Internet",
             "events": [
                {
                   "year": "1996",
-                  "description": "Появление протокола ICQ, положившего начало эре мгновенных сообщений."
+                  "description": "Introduction of ICQ protocol, marking the beginning of instant messaging era."
                },
                {
                   "year": "1997",
-                  "description": "Регистрация доменного имени Google.com и начало разработки поисковой системы в Стэнфордском университете."
+                  "description": "Registration of Google.com domain name and start of search engine development at Stanford University."
                },
                {
                   "year": "1998",
-                  "description": "Запуск поисковой системы Google с революционным алгоритмом PageRank."
+                  "description": "Launch of Google search engine with revolutionary PageRank algorithm."
                },
                {
                   "year": "1999",
-                  "description": "Создание системы обмена файлами Napster, достигшей пика в 80 миллионов пользователей."
+                  "description": "Creation of Napster file-sharing system, reaching peak of 80 million users."
                },
                {
                   "year": "2000",
-                  "description": "Пик и схлопывание доткомовского пузыря с потерей более 5 триллионов долларов капитализации."
+                  "description": "Peak and burst of the dot-com bubble with loss of over $5 trillion in market capitalization."
                }
             ]
          },
          {
-            "title": "Технологии",
+            "title": "Technology",
             "events": [
                {
                   "year": "2001",
-                  "description": "Выпуск первого iPod от Apple с революционным колесом прокрутки."
+                  "description": "Release of the first iPod by Apple with revolutionary scroll wheel."
                },
                {
                   "year": "2002",
-                  "description": "Запуск LinkedIn - первой профессиональной социальной сети."
+                  "description": "Launch of LinkedIn - the first professional social network."
                },
                {
                   "year": "2003",
-                  "description": "Запуск платформы Steam, изменившей распространение видеоигр."
+                  "description": "Launch of Steam platform, changing video game distribution."
                },
                {
                   "year": "2004",
-                  "description": "Основание Facebook в общежитии Гарвардского университета."
+                  "description": "Founding of Facebook in Harvard University dorm."
                },
                {
                   "year": "2005",
-                  "description": "Запуск YouTube и загрузка первого видео 'Me at the zoo'."
+                  "description": "Launch of YouTube and upload of first video 'Me at the zoo'."
                }
             ]
          },
          {
-            "title": "Музыка",
+            "title": "Music",
             "events": [
                {
                   "year": "2006",
-                  "description": "Выход дебютного альбома Arctic Monkeys - самого быстро продаваемого в истории Британии."
+                  "description": "Release of Arctic Monkeys' debut album - fastest-selling in British history."
                },
                {
                   "year": "2007",
-                  "description": "Radiohead выпускают In Rainbows по модели 'заплати сколько хочешь'."
+                  "description": "Radiohead releases In Rainbows with 'pay what you want' model."
                },
                {
                   "year": "2008",
-                  "description": "Lady Gaga выпускает The Fame с хитами 'Just Dance' и 'Poker Face'."
+                  "description": "Lady Gaga releases The Fame with hits 'Just Dance' and 'Poker Face'."
                },
                {
                   "year": "2009",
-                  "description": "Уход из жизни Майкла Джексона - конец эпохи в поп-музыке."
+                  "description": "Michael Jackson's passing - end of an era in pop music."
                },
                {
                   "year": "2010",
-                  "description": "Выход альбома Канье Уэста My Beautiful Dark Twisted Fantasy."
+                  "description": "Release of Kanye West's My Beautiful Dark Twisted Fantasy."
                }
             ]
          },
          {
-            "title": "Спорт",
+            "title": "Sports",
             "events": [
                {
                   "year": "2011",
-                  "description": "Победа сборной Испании на ЧМ с рекордным количеством передач за матч."
+                  "description": "Spain's World Cup victory with record number of passes per match."
                },
                {
                   "year": "2012",
-                  "description": "Триумф Усэйна Болта на Олимпийских играх в Лондоне."
+                  "description": "Usain Bolt's triumph at London Olympics."
                },
                {
                   "year": "2013",
-                  "description": "Завершение 26-летней карьеры Алекса Фергюсона в Манчестер Юнайтед."
+                  "description": "Alex Ferguson's retirement after 26-year career at Manchester United."
                },
                {
                   "year": "2014",
-                  "description": "Победа Германии на ЧМ в Бразилии с историческим счетом 7:1."
+                  "description": "Germany's World Cup victory in Brazil with historic 7:1 score."
                },
                {
                   "year": "2015",
-                  "description": "Первая за 40 лет победа Golden State Warriors в НБА."
+                  "description": "Golden State Warriors' first NBA championship in 40 years."
                }
             ]
          },
          {
-            "title": "Наука",
+            "title": "Science",
             "events": [
                {
                   "year": "2016",
-                  "description": "Первое наблюдение гравитационных волн, предсказанных Эйнштейном."
+                  "description": "First observation of gravitational waves predicted by Einstein."
                },
                {
                   "year": "2017",
-                  "description": "Успешное редактирование генома человека с помощью CRISPR-Cas9."
+                  "description": "Successful human genome editing using CRISPR-Cas9."
                },
                {
                   "year": "2018",
-                  "description": "Запуск SpaceX Falcon Heavy с Tesla Roadster на борту."
+                  "description": "SpaceX Falcon Heavy launch with Tesla Roadster onboard."
                },
                {
                   "year": "2019",
-                  "description": "Получение первого снимка черной дыры в галактике M87."
+                  "description": "First image of a black hole in M87 galaxy."
                },
                {
                   "year": "2020",
-                  "description": "Создание мРНК-вакцины от COVID-19 в рекордные сроки."
+                  "description": "Development of mRNA COVID-19 vaccine in record time."
                }
             ]
          }

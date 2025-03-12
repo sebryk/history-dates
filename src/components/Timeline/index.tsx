@@ -55,7 +55,7 @@ const index: FC<Omit<IHistoryDates, 'title'>> = ({ timeline }) => {
          <TimelineNav current={timelineIndex} overall={timeline?.length} handleTimelineChange={handleTimelineChange} />
          <Animation isSliderVisible={isSliderVisible}>
             <Title>{timeline?.[delayedTimelineIndex]?.title}</Title>
-            <Slider>
+            <Slider key={delayedTimelineIndex}>
                {timeline[delayedTimelineIndex]?.events.map((event) => (
                   <SliderItem>
                      <EventCard key={event.description} title={event.year} description={event.description} />

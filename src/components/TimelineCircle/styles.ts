@@ -97,6 +97,7 @@ export const DotWrapper = styled.div<{ angle: number; rotation: number }>`
    cursor: pointer;
    transform: translate(-50%, -50%) rotate(var(--angle)) translateX(var(--radius)) rotate(calc(var(--angle) * -1))
       rotate(calc(var(--rotation) * -1));
+   will-change: transform;
    transition: transform 1.6s;
 
    @media (max-width: 1160px) {
